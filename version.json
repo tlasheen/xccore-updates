@@ -1,0 +1,16 @@
+{
+  "android": {
+    "latest": 1,
+    "latestName": "1.0.0",
+    "minimum": 1,
+    "critical": false,
+    "notes": ""
+  },
+  "ios": {
+    "latest": 1,
+    "latestName": "1.0.0",
+    "minimum": 1,
+    "critical": false,
+    "notes": ""
+  }
+}
